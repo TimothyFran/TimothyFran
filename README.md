@@ -2,4 +2,4 @@
 - 👀 I’m interested in arduino, 3d print and agricolture
 - 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on any king of interesting project
-- 📫 How to reach me: timothy@franceschi.fun
+- 📫 How to reach me: timothy@franceschi.es
