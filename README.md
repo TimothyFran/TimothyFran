@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TimothyFran
-- 👀 I’m interested in arduino, 3d print and agricolture
-- 🌱 I’m currently learning android studio
-- 💞️ I’m looking to collaborate on any king of interesting project
-- 📫 How to reach me: timothy@franceschi.es
+- 👀 I’m interested in IoT, Mobile Development and more
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on any kind of interesting project
